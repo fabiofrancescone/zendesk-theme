@@ -1,8 +1,8 @@
 {
   "name": "Zextras Theme Refactoring",
   "author": "Matt @Zextras",
-  "version": "0.2",
-  "api_version": 2,
+  "version": "0.3",
+  "api_version": 3,
   "default_locale": "en-us",
   "settings": [
     {
